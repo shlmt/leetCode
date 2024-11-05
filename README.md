@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shlmt/leetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shlmt/leetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
