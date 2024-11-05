@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shlmt/leetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shlmt/leetCode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/shlmt/leetCode/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shlmt/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shlmt/leetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shlmt/leetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
