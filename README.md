@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/shlmt/leetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shlmt/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2058-concatenation-of-array](https://github.com/shlmt/leetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shlmt/leetCode/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/shlmt/leetCode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
