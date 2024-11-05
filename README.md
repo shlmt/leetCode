@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shlmt/leetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shlmt/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shlmt/leetCode/tree/master/0058-length-of-last-word) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/shlmt/leetCode/tree/master/1205-defanging-an-ip-address) |
 | [3194-find-words-containing-character](https://github.com/shlmt/leetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/shlmt/leetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shlmt/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/shlmt/leetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/shlmt/leetCode/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/shlmt/leetCode/tree/master/0620-not-boring-movies) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
