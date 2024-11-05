@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/shlmt/leetCode/tree/master/0319-bulb-switcher) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shlmt/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shlmt/leetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/shlmt/leetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
