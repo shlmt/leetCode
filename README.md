@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shlmt/leetCode/tree/master/0058-length-of-last-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/shlmt/leetCode/tree/master/1205-defanging-an-ip-address) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shlmt/leetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3194-find-words-containing-character](https://github.com/shlmt/leetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/shlmt/leetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/shlmt/leetCode/tree/master/3379-score-of-a-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shlmt/leetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shlmt/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/shlmt/leetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
