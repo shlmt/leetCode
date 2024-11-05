@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shlmt/leetCode/tree/master/0066-plus-one) |
 | [0792-binary-search](https://github.com/shlmt/leetCode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/shlmt/leetCode/tree/master/1580-shuffle-the-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shlmt/leetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Sorting
+|  |
+| ------- |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
