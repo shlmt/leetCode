@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/shlmt/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/shlmt/leetCode/tree/master/2058-concatenation-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shlmt/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shlmt/leetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/shlmt/leetCode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/shlmt/leetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/shlmt/leetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shlmt/leetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
