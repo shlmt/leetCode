@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shlmt/leetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shlmt/leetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/shlmt/leetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/shlmt/leetCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/shlmt/leetCode/tree/master/0319-bulb-switcher) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shlmt/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shlmt/leetCode/tree/master/0070-climbing-stairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shlmt/leetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shlmt/leetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
