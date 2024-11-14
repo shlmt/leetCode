@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shlmt/leetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shlmt/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/shlmt/leetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/shlmt/leetCode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/shlmt/leetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shlmt/leetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shlmt/leetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shlmt/leetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/shlmt/leetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/shlmt/leetCode/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/shlmt/leetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shlmt/leetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -98,14 +101,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/shlmt/leetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shlmt/leetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Greedy
 |  |
