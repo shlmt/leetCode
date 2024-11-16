@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shlmt/leetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shlmt/leetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/shlmt/leetCode/tree/master/3194-find-words-containing-character) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shlmt/leetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shlmt/leetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shlmt/leetCode/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shlmt/leetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
