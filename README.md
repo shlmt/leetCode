@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shlmt/leetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/shlmt/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shlmt/leetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shlmt/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shlmt/leetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/shlmt/leetCode/tree/master/0242-valid-anagram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/shlmt/leetCode/tree/master/1205-defanging-an-ip-address) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shlmt/leetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shlmt/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Greedy
