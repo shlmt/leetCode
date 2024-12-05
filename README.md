@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/shlmt/leetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/shlmt/leetCode/tree/master/0890-lemonade-change) |
+| [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
 | [1580-shuffle-the-array](https://github.com/shlmt/leetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1677-matrix-diagonal-sum](https://github.com/shlmt/leetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shlmt/leetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/shlmt/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
+| [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/shlmt/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
+| [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Greedy
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shlmt/leetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
