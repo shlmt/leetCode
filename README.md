@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shlmt/leetCode/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Memoization
 |  |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shlmt/leetCode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shlmt/leetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
