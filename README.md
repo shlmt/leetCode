@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/shlmt/leetCode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1677-matrix-diagonal-sum](https://github.com/shlmt/leetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shlmt/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shlmt/leetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/shlmt/leetCode/tree/master/2058-concatenation-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shlmt/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shlmt/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shlmt/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shlmt/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shlmt/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shlmt/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/shlmt/leetCode/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/shlmt/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
