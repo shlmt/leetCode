@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shlmt/leetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shlmt/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/shlmt/leetCode/tree/master/0066-plus-one) |
+| [0219-contains-duplicate-ii](https://github.com/shlmt/leetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/shlmt/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/shlmt/leetCode/tree/master/0792-binary-search) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shlmt/leetCode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/shlmt/leetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/shlmt/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shlmt/leetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shlmt/leetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Counting Sort
 | Problem Name | Difficulty |
