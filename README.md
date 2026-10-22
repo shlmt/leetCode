@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/shlmt/leetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shlmt/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/shlmt/leetCode/tree/master/0066-plus-one) |
@@ -26,16 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/shlmt/leetCode/tree/master/3194-find-words-containing-character) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shlmt/leetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/shlmt/leetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/shlmt/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shlmt/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/shlmt/leetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shlmt/leetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shlmt/leetCode/tree/master/0070-climbing-stairs) |
@@ -54,8 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shlmt/leetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shlmt/leetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shlmt/leetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shlmt/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shlmt/leetCode/tree/master/0058-length-of-last-word) |
@@ -69,117 +69,117 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/shlmt/leetCode/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/shlmt/leetCode/tree/master/3451-string-compression-iii) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shlmt/leetCode/tree/master/0014-longest-common-prefix) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shlmt/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shlmt/leetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shlmt/leetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shlmt/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/shlmt/leetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shlmt/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shlmt/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shlmt/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/shlmt/leetCode/tree/master/1894-merge-strings-alternately) |
 | [3195-separate-black-and-white-balls](https://github.com/shlmt/leetCode/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shlmt/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/shlmt/leetCode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/shlmt/leetCode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/shlmt/leetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/shlmt/leetCode/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shlmt/leetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0319-bulb-switcher](https://github.com/shlmt/leetCode/tree/master/0319-bulb-switcher) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/shlmt/leetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shlmt/leetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0242-valid-anagram](https://github.com/shlmt/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shlmt/leetCode/tree/master/0268-missing-number) |
 | [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shlmt/leetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shlmt/leetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0890-lemonade-change](https://github.com/shlmt/leetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shlmt/leetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shlmt/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/shlmt/leetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shlmt/leetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/shlmt/leetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shlmt/leetCode/tree/master/1013-fibonacci-number) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shlmt/leetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/shlmt/leetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shlmt/leetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/shlmt/leetCode/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/shlmt/leetCode/tree/master/0620-not-boring-movies) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/shlmt/leetCode/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shlmt/leetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/shlmt/leetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shlmt/leetCode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shlmt/leetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1217-relative-sort-array](https://github.com/shlmt/leetCode/tree/master/1217-relative-sort-array) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/shlmt/leetCode/tree/master/0238-product-of-array-except-self) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/shlmt/leetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
