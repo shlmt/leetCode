@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/shlmt/leetCode/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/shlmt/leetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/shlmt/leetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0620-not-boring-movies](https://github.com/shlmt/leetCode/tree/master/0620-not-boring-movies) |
 ## Stack
